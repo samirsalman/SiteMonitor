@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SiteMonitor</string>
+    <string name="animation_path">no_res.json</string>
+    <string name="radar_animation">radar.json</string>
+    <string name="welcome">Bentornato, qui troverai tutte le pagine che hanno subito modifiche</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Preference Titles -->
+    <string name="time_interval">Intervallo aggiornamento</string>
+    <string name="default_interval">15</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string-array name="intervals">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+
+    </string-array>
+
+
+    <string-array name="entries_intervals">
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>15 minuti</item>
+        <item>20 minuti</item>
+        <item>30 minuti</item>
+        <item>1 ora</item>
+    </string-array>
+
+
+
+</resources>

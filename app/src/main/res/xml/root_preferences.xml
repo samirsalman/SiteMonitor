@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/time_interval">
+
+        <ListPreference
+
+            android:defaultValue="15"
+            android:entries="@array/entries_intervals"
+            android:entryValues="@array/intervals"
+            android:icon="@drawable/time"
+            android:key="intervals_list"
+            android:summary="Indica l'intervallo di tempo dopo il quale vengono controllati aggiornamenti"
+            android:title="Intervallo aggiornamento" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

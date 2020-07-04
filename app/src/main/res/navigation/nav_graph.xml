@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/home_fragment">
+
+    <fragment
+        android:id="@+id/home_fragment"
+        android:name="it.salmanapp.sitemonitor.ui.home.HomeFragment"
+        android:label="home_fragment"
+        tools:layout="@layout/home_fragment" />
+    <fragment
+        android:id="@+id/list_fragment"
+        android:name="it.salmanapp.sitemonitor.ui.list.ListFragment"
+        android:label="list_fragment"
+        tools:layout="@layout/list_fragment" />
+    <activity
+        android:id="@+id/pageDetails"
+        android:name="it.salmanapp.sitemonitor.ui.pageDetails.PageDetails"
+        android:label="activity_page_details"
+        tools:layout="@layout/activity_page_details" />
+</navigation>
