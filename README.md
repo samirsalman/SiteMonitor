@@ -14,3 +14,9 @@ SiteMonitor is a web pages monitoring app, useful to observe pages changes an ge
   <img src="https://github.com/samirsalman/SiteMonitor/blob/master/images/photo_2020-07-04_16-29-49.jpg" width ="200px">
   <img src="https://github.com/samirsalman/SiteMonitor/blob/master/images/photo_2020-07-04_16-29-01.jpg" width ="200px">
 </div>
+
+
+# TODO
+
+- Write Android and Unit tests
+- Splash Screen
