@@ -1,6 +1,5 @@
 # SiteMonitor
-
-![app_logo](/images/2020/07/radar.png)
+![app_logo](https://github.com/samirsalman/SiteMonitor/blob/master/images/2020/07/radar.png)
 An Android App written in Kotlin to Monitor Web pages and to get updates of changes
 
 ## Description
@@ -9,7 +8,7 @@ SiteMonitor is a web pages monitoring app, useful to observe pages changes an ge
 
 ## Screenshot
 
-![](/images/2020/07/photo_2020-07-04_16-29-52.jpg)
-![](/images/2020/07/photo_2020-07-04_16-29-45.jpg)
-![](/images/2020/07/photo_2020-07-04_16-29-49.jpg)
-![](/images/2020/07/photo_2020-07-04_16-29-01.jpg)
+![](https://github.com/samirsalman/SiteMonitor/blob/master/images/2020/07/photo_2020-07-04_16-29-52.jpg)
+![](https://github.com/samirsalman/SiteMonitor/blob/master/images/2020/07/photo_2020-07-04_16-29-45.jpg)
+![](https://github.com/samirsalman/SiteMonitor/blob/master/images/2020/07/photo_2020-07-04_16-29-49.jpg)
+![](https://github.com/samirsalman/SiteMonitor/blob/master/images/2020/07/photo_2020-07-04_16-29-01.jpg)
