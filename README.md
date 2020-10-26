@@ -6,7 +6,7 @@ An Android App written in Kotlin to Monitor Web pages and to get updates of chan
 
 SiteMonitor is a web pages monitoring app, useful to observe pages changes an get notifications. You can add new pages to observe, show the pages already observed and receive all updates.
 
-## Screenshot
+## Screenshots
 
 <div>
   <img src="https://github.com/samirsalman/SiteMonitor/blob/master/images/photo_2020-07-04_16-29-52.jpg" width ="200px">
